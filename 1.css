@@ -1,0 +1,39 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.fixed-layout {
+    width: 1870px;
+    height: 800px;
+    border-collapse: collapse;
+}
+
+.fixed-layout td {
+    border: 1px solid black;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.cell1 {
+    background-color: blue;
+    height: 50px;
+}
+
+.cell2 {
+    background-color: yellow;
+    width: 200px;
+}
+
+.cell3 {
+    background-color: blue;
+    height: 50px;
+}
+
+.cell4 {
+    height: 300px;
+}
+
+.spacer {
+    width: 100px;
+}

@@ -1,0 +1,23 @@
+
+.container {
+    width: 90%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.photo-block {
+    width: 30%; 
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.photo-block img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+.caption {
+    margin-top: 10px;
+}
